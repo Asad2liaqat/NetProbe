@@ -44,13 +44,13 @@ The tool was showcased at **TechXhibit 2026** (Air University Multan Campus, ACM
 
 ## 🖥️ GUI Highlights
 
-- **Dark navy/teal design** — built with `CustomTkinter`
-- **Responsive layout** — auto-scales to any screen resolution (DPI-aware on Windows)
+- **Dark navy/teal design** - built with `CustomTkinter`
+- **Responsive layout** - auto-scales to any screen resolution (DPI-aware on Windows)
 - **Splash screen** with animated progress bar
 - **Sidebar navigation** with 10 sections
-- **Risk badges** — color-coded: CRITICAL 🔴 / High 🟠 / Weak 🟡 / Safe 🟢
-- **Device label manager** — persistent friendly names per MAC address
-- **Email alert system** — SMTP notifications on new device detection
+- **Risk badges** - color-coded: CRITICAL 🔴 / High 🟠 / Weak 🟡 / Safe 🟢
+- **Device label manager** - persistent friendly names per MAC address
+- **Email alert system** - SMTP notifications on new device detection
 
 ---
 
@@ -74,10 +74,10 @@ cd NetProbe
 # Install dependencies
 pip install -r requirements.txt
 
-# Run (Windows — as Administrator)
+# Run (Windows as Administrator)
 python gui.py
 
-# Run (Linux — as root)
+# Run (Linux as root)
 sudo python gui.py
 ```
 
@@ -107,7 +107,7 @@ This tool is backed by a peer-reviewed publication:
 
 > **A Comprehensive Review of IoT Vulnerability Scanning: Active, Passive, and Hybrid Methodologies**  
 > M.H. Hayat, **Asad Liaqat*** (corresponding), L. Shoaib  
-> *Spectrum of Engineering Sciences*, Vol. 4, Issue 4 — April 2026  
+> *Spectrum of Engineering Sciences*, Vol. 4, Issue 4 - April 2026  
 > Impact Factor: **4.5**  
 > 🔗 [Read Paper](https://thesesjournal.com/index.php/1/article/view/2556)
 
