@@ -14,7 +14,6 @@ CVE scoring engine, PDF reporting, and a sleek dark-mode GUI.**
 
 [🌐 Download & Docs](https://net-probesec.com) · [📄 Research Paper](https://thesesjournal.com/index.php/1/article/view/2556) · [🐛 Report a Bug](https://github.com/Asad2liaqat/NetProbe/issues)
 
-![NetProbe Banner](assets/banner.png)
 
 </div>
 
