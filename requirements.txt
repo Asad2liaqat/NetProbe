@@ -1,0 +1,25 @@
+# IoT Security Scanner — Python Dependencies
+# Install all with: pip install -r requirements.txt
+
+# ── Core scanning ─────────────────────────────────────────────────────────────
+scapy           # ARP scanning, packet sniffing, traffic monitor
+requests        # MAC vendor API, NVD CVE lookup, UPnP fingerprinting
+
+# ── GUI ───────────────────────────────────────────────────────────────────────
+customtkinter   # Modern dark-theme GUI framework
+pillow          # Image handling required by CustomTkinter
+
+# ── PDF report ────────────────────────────────────────────────────────────────
+fpdf2           # PDF generation (module5.py)
+matplotlib      # Charts and trend graphs (visuals.py)
+networkx        # Network topology map (visuals.py)
+
+# ── Terminal output ───────────────────────────────────────────────────────────
+colorama        # Coloured terminal output
+tabulate        # Formatted tables in terminal
+
+# ── API server (optional — only needed if using api.py with Android app) ──────
+flask           # REST API endpoints
+
+# ── Network intelligence ──────────────────────────────────────────────────────
+python-nmap     # OS detection via nmap (module2.py)
